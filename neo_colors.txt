@@ -1,0 +1,19 @@
+# This is a neo color file. To use this file, run:
+#
+#   neo --colorfile=neo_colors.txt
+#
+# This example shows how to set custom 32-bit colors.
+#
+# The color palette comes from Catppuccin Macchiato:
+#
+# https://github.com/catppuccin/catppuccin
+#
+
+neo_color_version 1
+
+
+235, 141, 153, 227  # Base (background) #24273a
+214, 490, 769, 894  # Sapphire #7dc4e4
+106, 651, 855, 584  # Green #a6da95
+245, 541, 678, 957  # Text #8aadf4
+
